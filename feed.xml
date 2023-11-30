@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Vvek</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2023-11-30T22:39:57+08:00</updated>
+  <updated>2023-11-30T22:51:05+08:00</updated>
   <author>
     <name>Vivek Ghinaiya</name>
     <uri>http://localhost:4000/</uri>
@@ -59,56 +59,6 @@ Here is my write-up, I’ll tell you about one of my discoveries and explain how
 
 
 You guys know about IDOR so witho...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>IDOR with Autorize!</title>
-    <link href="http://localhost:4000/posts/text-and-typography-copy/" rel="alternate" type="text/html" title="IDOR with Autorize!" />
-    <published>2023-08-08T11:33:00+08:00</published>
-  
-    <updated>2023-08-08T11:33:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/text-and-typography-copy/</id>
-    <content src="http://localhost:4000/posts/text-and-typography-copy/" />
-    <author>
-      <name>vivek</name>
-    </author>
-
-  
-    
-    <category term="Blogging" />
-    
-    <category term="Demo" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      This post is to show Markdown syntax rendering on Chirpy, you can also use it as an example of writing.
-
-Headings
-
-H1 - heading
-
-H2 - heading
-
-H3 - heading
-
-H4 - heading
-
-Paragraph
-
-Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna facilisis ac. Phasellus semper dui non purus ultrices so...
     </summary>
   
 
