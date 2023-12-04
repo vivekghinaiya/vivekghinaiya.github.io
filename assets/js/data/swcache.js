@@ -36,7 +36,7 @@ const resource = [
 const allowedDomains = [
   
 
-  'localhost:4000',
+  'localhost:4003',
 
   
     'ucarecdn.com',

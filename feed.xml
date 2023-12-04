@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>http://localhost:4003/</id>
   <title>Vvek</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2023-12-03T19:19:17+08:00</updated>
+  <updated>2023-12-04T16:57:52+08:00</updated>
   <author>
     <name>Vivek Ghinaiya</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>http://localhost:4003/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4003/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/"/>
+    href="http://localhost:4003/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <rights> © 2023 Vivek Ghinaiya </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Hunting Javascript File for Bug Hunters</title>
-    <link href="http://localhost:4000/posts/text-and-typography-Copy/" rel="alternate" type="text/html" title="Hunting Javascript File for Bug Hunters" />
+    <link href="http://localhost:4003/posts/text-and-typography-Copy/" rel="alternate" type="text/html" title="Hunting Javascript File for Bug Hunters" />
     <published>2023-12-02T06:00:00+08:00</published>
   
     <updated>2023-12-02T06:00:00+08:00</updated>
   
-    <id>http://localhost:4000/posts/text-and-typography-Copy/</id>
-    <content src="http://localhost:4000/posts/text-and-typography-Copy/" />
+    <id>http://localhost:4003/posts/text-and-typography-Copy/</id>
+    <content src="http://localhost:4003/posts/text-and-typography-Copy/" />
     <author>
       <name>Vivek Ghinaiya</name>
     </author>
@@ -63,13 +63,13 @@ Some Key Aspects Of JavaScript’s Significance In Web Development:
   
   <entry>
     <title>IDOR with Autorize!</title>
-    <link href="http://localhost:4000/posts/text-and-typography/" rel="alternate" type="text/html" title="IDOR with Autorize!" />
+    <link href="http://localhost:4003/posts/text-and-typography/" rel="alternate" type="text/html" title="IDOR with Autorize!" />
     <published>2023-08-08T11:33:00+08:00</published>
   
     <updated>2023-09-23T05:01:29+08:00</updated>
   
-    <id>http://localhost:4000/posts/text-and-typography/</id>
-    <content src="http://localhost:4000/posts/text-and-typography/" />
+    <id>http://localhost:4003/posts/text-and-typography/</id>
+    <content src="http://localhost:4003/posts/text-and-typography/" />
     <author>
       <name>Vivek Ghinaiya</name>
     </author>
